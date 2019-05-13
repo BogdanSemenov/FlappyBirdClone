@@ -1,4 +1,6 @@
 # FlappyBirdClone
+Python game. 
+Developed by Bogdan Semenov. 
 
 ### Description 
 Bird jumps and tries to dodge two vertical columns. When bird bumps into obstacle or touches the ground the game is over. 
