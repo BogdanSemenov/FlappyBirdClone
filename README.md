@@ -1,10 +1,17 @@
-# PythonGame
+# FlappyBirdClone
 
+### Description 
+Bird jumps and tries to dodge two vertical columns. When bird bumps into obstacle or touches the ground the game is over. 
+Otherwise, you are lucky one and you get a point. Your purpose to get as more points as you can. Your highscore is located in the top left
+corner.
 
-1. Игра FlappyBird
+### How to play?
 
-2. Птичка прыгает, пытаясь укланиться от препятсвий(двух вертикальных колон). За каждое преодолённое препятсвие получает +1 очко. 
-Цель- набрать наибольшее кол-во очков. Если птичка падает на землю или касается колон, то игра заканчивается.
-GamePlay - https://www.youtube.com/watch?v=fQoJZuBwrkU
+###### 'SPACE'
+Press this button to jump.
 
-3. Птица на экране управляется кнопкой SPACE.
+###### 'ENTER'
+Press this button to restart the game when you die.
+
+###### 'ESC'
+Press this button to quit the game when you die.
